@@ -1,0 +1,377 @@
+# Webalizer V2.23-08 Incremental Data - 06/29/2024 18:40:43
+2024 6 29 18 40 43
+2850 1952 33 62 7 4 41139501 2678 123 0
+6 51 143 22 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+44 2 101883 4 41 9
+348 179 8234425 2 346 18
+277 225 192314 7 276 15
+329 219 14449159 5 326 19
+246 193 262640 6 246 9
+560 403 394391 9 510 22
+454 371 2591747 4 349 10
+592 360 14912942 6 584 23
+0 0 0 0 0 0
+0 0 0 0 0 0
+36 18 57503 36
+49 19 3556526 49
+102 62 12311460 98
+112 68 9480572 110
+156 123 7495973 153
+258 237 170247 256
+138 65 125164 137
+89 64 56909 46
+122 69 108528 98
+93 66 58866 88
+234 126 1164852 212
+209 155 1040518 197
+256 177 3470454 253
+61 29 44450 61
+34 26 19448 34
+52 28 323301 51
+117 77 1057515 117
+172 138 110719 172
+195 131 126734 177
+80 43 95221 48
+51 37 62083 51
+63 50 62122 63
+94 69 91588 94
+77 75 48748 77
+16
+0
+0
+1952
+138
+0
+0
+0
+0
+0
+0
+6
+57
+0
+0
+0
+0
+124
+255
+0
+13
+190
+10
+0
+0
+0
+38
+0
+0
+0
+0
+0
+0
+0
+0
+51
+0
+0
+0
+0
+0
+# -urls- 
+/api/users/46/delete-account
+0 1 0 398 0 0
+/api/doctors/specialty/3/online
+0 1 0 373 0 0
+/api/users/updateInfo/42
+0 7 0 4668 0 0
+/api/users/updateInfo/50
+0 1 0 659 0 0
+/api/getUserInfo/43
+0 107 0 61571 2 5
+/welcome
+0 2 0 17470 0 0
+/api/doctor/42/patients/2024-06-27
+0 1 0 787 0 0
+/api/users/49/delete-account
+0 1 0 398 0 0
+/api/schedules/20
+0 8 0 4208 0 1
+/api/forgot-password
+0 15 0 6294 0 0
+/api/patients/doctors
+0 132 0 101338 1 3
+/api/getUserInfo/41
+0 2 0 1112 0 0
+/items/image/1719127659_796.jpg
+0 1 0 3676864 0 0
+/api/users/updateInfo/20
+0 8 0 5544 1 0
+/items/image/1719296849_527.jpg
+0 1 0 3146661 0 0
+/api/logout
+0 26 0 11070 5 6
+/api/specialties
+0 8 0 4928 0 2
+/api/image/42
+0 1 0 407 0 0
+/api/patient/38
+0 1 0 792 0 0
+/api/image/20
+0 3 167 1272 0 0
+/favicon.ico
+0 3 0 1180 0 0
+/api/doctor/42/patients
+0 112 0 91616 1 7
+/items/image/1719649515_581.jpg
+0 1 0 3676864 0 0
+/api/users/rate/38/20
+0 2 0 1365 0 0
+/api/doctor/42/patients/2024-06-28 00:00:00.000
+0 48 0 39387 0 0
+/api/specialties/2
+0 3 0 1671 0 0
+/api/doctors/specialty/4/online
+0 1 0 373 0 0
+/api/doctor/43/patients
+0 2 0 796 0 0
+/api/doctors/specialty/2/online
+0 5 0 2732 0 0
+/api/getUserInfo/20
+0 66 0 39713 2 4
+/items/image/1719296907_662.jpg
+0 2 0 4356074 0 0
+/api/doctors/online
+0 40 0 29522 0 0
+/api/validate-otp
+0 3 0 1188 0 0
+/api/users/updateInfo/18
+0 3 0 2040 1 1
+/api/doctors/specialty/5/online
+0 89 0 61098 2 1
+/api/doctors/specialty/1/online
+0 26 0 16724 0 1
+/api/login
+0 573 0 378754 78 5
+/api/getUserInfo/50
+0 4 0 2262 1 1
+/api/users/45/delete-account
+0 1 87 398 0 0
+/api/doctor/20/patients
+0 23 0 15174 0 0
+/api/specialties/1
+0 3 0 1907 0 0
+/items/image/1719649466_881.jpg
+0 1 0 3146661 0 0
+/api/specialties/5
+0 1 0 655 0 0
+/api/doctors/specialty/15/online
+0 12 0 4692 0 0
+/api/specialties/6
+0 1 0 373 0 0
+/api/getUserInfo/38
+0 196 0 112803 1 17
+/api/doctor/42/patients/2024-06-29
+0 11 0 9515 0 0
+/api/users/48/delete-account
+0 1 0 398 0 0
+/api/doctor/42/patients/2024-06-28
+0 38 0 32029 0 0
+/api/users/47/delete-account
+0 1 0 398 0 0
+/items/image/1719296738_864.png
+0 1 0 225568 0 0
+/api/reset-password
+0 1 0 398 0 0
+/api/doctor/42/patients/2024-06-26
+0 1 0 699 0 0
+/api/users/updateInfo/38
+0 47 0 31154 0 0
+/api/doctor/42/patients/2024-06-29 00:00:00.000
+0 40 0 32954 0 0
+/items/image/1719127972_162.jpg
+0 1 0 3676864 0 0
+/api/doctor/2/patients
+0 2 0 760 0 0
+/api/schedules/42
+0 5 0 2577 0 0
+/api/getUserInfo/42
+0 228 0 132118 4 17
+/api/verify-email
+0 19 0 7771 2 2
+/api/doctor/38/patients
+0 3 0 1194 0 0
+/api/users/change-password
+0 5 0 2045 0 0
+# End Of Table - urls
+# -sites- (monthly)
+102.185.97.18
+0 96 57 141394 2 1719435872
+/api/doctors/specialty/5/online
+196.152.150.233
+0 2 2 1278 1 1719491781
+/api/getUserInfo/20
+102.187.52.229
+0 200 168 155511 7 1719643126
+/api/patients/doctors
+196.152.148.225
+0 99 87 68861 3 1719531837
+/api/getUserInfo/38
+102.185.104.156
+0 32 29 27704 3 1719490993
+/api/getUserInfo/20
+156.211.86.26
+0 2 2 1257 1 1719436791
+/api/specialties
+156.211.80.110
+0 8 7 6828 1 1719428223
+/api/login
+102.185.33.51
+0 16 16 9485 1 1719251593
+/api/getUserInfo/38
+196.152.150.190
+0 187 167 2398997 3 1719577583
+-
+156.211.38.87
+0 29 1 48715 3 1719046309
+-
+197.135.16.126
+0 202 180 135337 12 1719381406
+/api/getUserInfo/42
+102.187.113.47
+0 125 112 85599 3 1719471160
+-
+156.211.17.164
+0 20 8 299429 2 1719328644
+-
+102.187.59.252
+0 170 82 2589768 6 1719685148
+/api/validate-otp
+196.135.144.200
+0 20 18 11860 1 1719255536
+/api/getUserInfo/43
+102.185.188.229
+0 174 88 540878 8 1719664762
+/api/patients/doctors
+196.135.147.201
+0 52 26 704155 3 1719281519
+/api/getUserInfo/38
+102.187.28.150
+0 432 271 298060 13 1719563408
+-
+149.154.161.204
+0 1 0 1544 1 1719032205
+-
+102.187.117.121
+0 491 324 351279 24 1719247260
+/api/getUserInfo/38
+156.211.93.163
+0 156 80 20710396 7 1719282974
+/api/schedules/20
+156.210.17.189
+0 5 4 3041 1 1719469087
+/api/users/rate/38/20
+196.135.151.85
+0 8 5 4703 1 1719246064
+-
+197.53.66.72
+0 8 8 4685 1 1719512683
+/api/doctors/specialty/5/online
+197.53.88.51
+0 127 82 11691922 2 1719660408
+/api/reset-password
+154.237.241.27
+0 11 1 45972 3 1719052682
+-
+196.152.146.6
+0 40 26 684033 3 1719356492
+/api/getUserInfo/43
+196.135.140.31
+0 29 24 18624 1 1719663811
+/api/doctors/online
+102.187.182.235
+0 6 3 7549 1 1719686443
+/api/getUserInfo/50
+196.135.142.38
+0 19 19 11927 1 1719533323
+/api/getUserInfo/42
+102.185.96.68
+0 26 12 18239 2 1719244030
+-
+196.152.148.84
+0 42 34 43104 1 1719439635
+/api/patients/doctors
+196.152.206.33
+0 15 9 17367 1 1719524413
+/api/getUserInfo/43
+# End Of Table - sites (monthly)
+# -sites- (daily)
+102.187.52.229
+0 86 81 64201 5 1719643126
+/api/patients/doctors
+102.187.59.252
+0 170 82 2589768 6 1719685148
+/api/validate-otp
+102.185.188.229
+0 174 88 540878 8 1719664762
+/api/patients/doctors
+197.53.88.51
+0 127 82 11691922 2 1719660408
+/api/reset-password
+196.135.140.31
+0 29 24 18624 1 1719663811
+/api/doctors/online
+102.187.182.235
+0 6 3 7549 1 1719686443
+/api/getUserInfo/50
+# End Of Table - sites (daily)
+# -referrers- 
+http://egyclinic.c1.is/api/schedules
+0 8
+http://egyclinic.c1.is/api/validate-otp
+0 1
+- (Direct Request)
+0 2828
+http://egyclinic.c1.is/api/appointments
+0 4
+http://egyclinic.c1.is/api/specialties/
+0 1
+http://egyclinic.c1.is/
+0 5
+http://egyclinic.c1.is/api/getUserInfo/
+0 3
+# End Of Table - referrers
+# -agents- 
+PostmanRuntime/7.39.0
+0 625
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 43
+Dart/3.4 (dart:io)
+0 2181
+TelegramBot (like TwitterBot)
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
